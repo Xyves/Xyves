@@ -157,4 +157,4 @@
 </table>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Xyves&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Xyves&theme=dark&hide_border=false)<br/>
