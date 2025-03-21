@@ -165,4 +165,8 @@
 </table>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Xyves&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src = 'https://nirzak-streak-stats.vercel.app/?user=Xyves&theme=dark&hide_border=false' /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Xyves&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact' />
+</p>
+
