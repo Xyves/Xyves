@@ -86,12 +86,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
         width="48"
         height="48"
-        alt="npm"
+        alt="nextjs"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>NextJs</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
