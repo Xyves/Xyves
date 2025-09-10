@@ -163,9 +163,3 @@
     </td>
   </tr>
 </table>
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src = 'https://nirzak-streak-stats.vercel.app/?user=Xyves&theme=dark&hide_border=false' /> &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
